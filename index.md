@@ -2,9 +2,7 @@
 
 Needlecast Validators run with the moniker **needlecast** on networks in the Cosmos Ecosystem.
 
-We have years of experience running enterprise infrastructure at scale. This means we are up-to-date on current Web2 ops best-practice. 
-
-In Web3, things move _fast_. We constantly re-evaluate our setup and procedures, engaging with other validators on the best way to operate.
+We have years of experience running enterprise infrastructure at scale. In Web3, things move _much faster_. We constantly re-evaluate our setup and procedures, engaging with other validators on the best way to operate.
 
 We care not only about following best-practice, but also helping to define it as the validator community expands.
 
