@@ -3,19 +3,37 @@
 
 @import "{{ site.theme }}";
 
+@import 'https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,400,500,700';
+
 body {
   background-color: #222;
   color: #fdfdfd;
+  font-family: 'IBM Plex Sans', helvetica, sans-serif;
 }
 
-h1, h2, h3, h4, h5, h6, p {
+h1, h2, h3, h4, h5, h6 {
   color: #fdfdfd;
+  font-weight: 300;
+}
+
+p, strong, em {
+  color: #fdfdfd;
+}
+
+p {
+  font-weight: 400;
+}
+
+strong {
+  font-weight: 700;
 }
 
 a {
   color: #00aeef;
+  font-weight: inherit;
 }
 
 a:hover {
  color: #ec008c;
+ font-weight: inherit;
 }
