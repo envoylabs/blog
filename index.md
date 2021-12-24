@@ -1,6 +1,6 @@
 ## Needlecast Validators
 
-Needlecast Validators run with the moniker `needlecast` on several networks in the Cosmos Ecosystem.
+Needlecast Validators run with the moniker **needlecast** on several networks in the Cosmos Ecosystem.
 
 Our years of experience running enterprise infrastructure at scale mean we are perfectly placed to work within current best-practice and help define it as the validator community expands.
 
