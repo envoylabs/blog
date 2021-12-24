@@ -2,6 +2,3 @@ theme: jekyll-theme-minimal
 title: [Needlecast Validators]
 site:
   logo: /assets/needlecast-new-icon-sm.png
-  description: Needlecast Validators, run by Envoy Labs
-  github:
-    repository_url: https://github.com/envoylabs/
