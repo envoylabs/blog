@@ -4,6 +4,9 @@ layout: default
 
 # Decentralized Name Service on Juno
 
+![A gif of the deNS in action](https://raw.githubusercontent.com/envoylabs/blog/gh-pages/assets/dens.gif)
+_Thanks to ekez for the screen record_
+
 For the last month or so, we've been leading the development of a name service that can be deployed via a CosmWasm smart contract, which we call (de)NS for short. It will be launched in a phased way this January on Juno's mainnet.
 
 Whereas other systems like ENS and Terra seem to have spent a lot of time on the mechanics of selling and auctioning, we kind of think that stuff is a waste of time. (de)NS instead focuses on using a known interchain primitive to form a portable bearer ID - the NFT.
