@@ -35,4 +35,4 @@ If you want to discuss anything, you can get in touch with us on [keybase](https
 
 ## Posts
 
-**2021-12-27** [Astarte Testnet Debrief](./pages/astarte.html)
+**2021-12-27** -- [Astarte Testnet Debrief](./pages/astarte.html)
