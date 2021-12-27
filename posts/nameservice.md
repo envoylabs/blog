@@ -43,4 +43,6 @@ However, we're a very small team, so things will take a bit of thought and time 
 
 If you'd like to check in on development, or have ideas, then say hey on the Juno Discord.
 
+If you've checked in there and raised a cool idea, you can find our feature/issue tracker [here](https://github.com/envoylabs/whoami-ui/issues) to raise it on our feature roadmap. Please note though that we've got a full feature list already, so do check in on discord first before raising a ticket.
+
 We're hoping to have it up and ready to test on the uni testnet by the end of the month, so stay tuned.
