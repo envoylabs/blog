@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Astarte Testnet Debrief
 
 ![A poem about astarte, by block pane](https://raw.githubusercontent.com/envoylabs/blog/gh-pages/assets/astarte.png)
