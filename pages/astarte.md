@@ -43,5 +43,3 @@ A **special special** thanks goes to `[ block pane ]` who helped coordinate and 
 It goes without saying that these validators deserve the support of the community, not just for the cost of the servers they were running (for those that did all four nets, for a month) but also for the blood, sweat, tears, and sometimes memes that they shed to get Moneta and the security patch out the door.
 
 Thank you all 🙏
-
-[Back to home](../)
