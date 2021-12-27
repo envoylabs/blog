@@ -34,7 +34,7 @@ The validators who participated, according to the dumps we took from our node pe
 | jabbey           | 1                     |
 | Komikuri         | 1                     |
 
-The bracketed figure is how many testnets were participated in. If we've got the number wrong, then shout at us on discord and we will amend. Some of validators we've got down as 2 probably participated in 3/4, but heck, we're tired.
+If we've got the number wrong, then shout at us on discord and we will amend. Some of validators we've got down as 2 probably participated in 3/4, but heck, we're tired.
 
 Obviously _thank you_ to all the validators that participated in these testnets. Without the Astarte team, neither Moneta nor the security patch could have been released on the demanding timescale we had.
 
