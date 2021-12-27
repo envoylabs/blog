@@ -41,6 +41,8 @@ That's not all though. We have a lot of exciting ideas on our roadmap, like:
 
 However, we're a very small team, so things will take a bit of thought and time before they can be built. On that score, thanks to the other contributors on the project - `ekez`, `danwlsn` and `elsehow`, you're all legends.
 
+The code for the frontend can be found [here](https://github.com/envoylabs/whoami-ui).
+
 If you'd like to check in on development, or have ideas, then say hey on the Juno Discord.
 
 If you've checked in there and raised a cool idea, you can find our feature/issue tracker [here](https://github.com/envoylabs/whoami-ui/issues) to raise it on our feature roadmap. Please note though that we've got a full feature list already, so do check in on discord first before raising a ticket.
