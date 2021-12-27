@@ -26,9 +26,9 @@ The validators who participated, according to the dumps we took from our node pe
 | disperze         | 4                     |
 | SkyNet           | 3                     |
 | RHINO            | 3                     |
+| Messi            | 3                     |
 | ben2x4           | 2                     |
 | meow             | 2                     |
-| Messi            | 2                     |
 | HighlanderNodes  | 2                     |
 | Mercury          | 2                     |
 | jabbey           | 1                     |
