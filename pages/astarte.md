@@ -44,4 +44,4 @@ It goes without saying that these validators deserve the support of the communit
 
 Thank you all 🙏
 
-[Back to home](./)
+[Back to home](../)
