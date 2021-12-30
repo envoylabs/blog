@@ -35,5 +35,6 @@ If you want to discuss anything, you can get in touch with us on [keybase](https
 
 ## Posts
 
+- **2021-12-30** -- [deNS is on Uni](./posts/dens-uni.html)
 - **2021-12-27** -- [Astarte Testnet Debrief](./posts/astarte.html)
 - **2021-12-24** -- [Decentralized Name Service on Juno](./posts/nameservice.html)
