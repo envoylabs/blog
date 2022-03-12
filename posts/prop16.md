@@ -99,9 +99,21 @@ ___
 
 ___
 
-**(2022-03-12) Edit:**
+**(2022-03-12 01:00) Edit:**
 
 Since writing our post, we've been made aware of other blogs by validators and teams that make for a decent 'further reading' section for the interested. The inclusion of these articles here does not indicate we endorse their views, merely that it is worth reading what others have to say.
 
 1. Lavender Five have broken down the reasons for action pretty well, but from a different perspective [here](https://medium.com/@lavenderfive/8f6d5bd5d6ae).
 2. Joe Abbey has written about how the original Atom wallets were provisioned, and when, in a handy bit of [amateur sleuthing](https://jabbey-io.medium.com/game-ing-stakedrops-d02a826ff791).
+
+___
+
+**(2022-03-12 10:30) Edit:**
+
+[The whale has responded](https://medium.com/@WhaleJuno/our-statement-on-juno-prop-16-5a06b26e6cff). Some of the points they make are a little spurious (e.g. about other airdrop accounts with substantially smaller holdings), but the bulk of their rebuttal makes sense.
+
+They also propose a solution to the community's unease:
+
+> Our proposal to the community is ‘Stake all Juno we own forever. Sell the reward and if we change it to another tokens, we have to provide liquidity to Junowap with that token pair. Also, we can’t unbond the liquidity for 2 years from now.’ [sic]
+
+This seems... pretty reasonable. Certainly not like a bad actor, which is impressive given the amount of mud that has been slung in their direction.
