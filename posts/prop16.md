@@ -117,3 +117,7 @@ They also propose a solution to the community's unease:
 > Our proposal to the community is ‘Stake all Juno we own forever. Sell the reward and if we change it to another tokens, we have to provide liquidity to Junowap with that token pair. Also, we can’t unbond the liquidity for 2 years from now.’ [sic]
 
 This seems... pretty reasonable. Certainly not like a bad actor, which is impressive given the amount of mud that has been slung in their direction.
+
+As soon as Prop 16 was tabled, game theory pushed us in the direction of a 'yes by default'. That is to say, that the knowledge of the risk of losing funds incentivizes the whale to dump their position. The acknowledgment of the risk publicly makes the risk real, in other words.
+
+However, something interesting has happened here - the whale has instead come back to the table and proposed a solution. This offers a way of coming to a compromise that is in the spirit of the Juno chain, while still maintaining sovereignty of funds for wallets.
