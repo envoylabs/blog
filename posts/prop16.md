@@ -6,7 +6,15 @@ layout: default
 
 ## TL;DR
 
-We will be voting **abstain** but encourage our delegators to vote as individuals.[0]
+The rule of law over the rule of the mob matters even more in decentralized systems than in centralized ones.
+
+~We will be voting **abstain** but encourage our delegators to vote as individuals.[0]~
+
+We will be voting **no**.
+
+Due to new information that has come out (see the links at the bottom of this article), we are changing our vote from **abstain** to **no** and will be actively advocating for this position.
+
+We encourage our delegators to vote according to their consciences.[0]
 
 ## Context
 
