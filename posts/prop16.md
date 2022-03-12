@@ -8,7 +8,7 @@ layout: default
 
 The rule of law over the rule of the mob matters even more in decentralized systems than in centralized ones.
 
-~We will be voting **abstain** but encourage our delegators to vote as individuals.[0]~
+<s>We will be voting **abstain** but encourage our delegators to vote as individuals.[0]</s>
 
 We will be voting **no**.
 
