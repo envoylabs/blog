@@ -95,3 +95,13 @@ ___
 [0] the lack of private ballots is, in our opinion, dangerous. We think validators' votes should be public, but non-validator wallet votes should probably be private. That's another story for another day, however.
 
 [1] heck, we will admit to a little of this, it's money for nothing, after all.
+
+
+___
+
+**(2022-03-12) Edit:**
+
+Since writing our post, we've been made aware of other blogs by validators and teams that make for a decent 'further reading' section for the interested. The inclusion of these articles here does not indicate we endorse their views, merely that it is worth reading what others have to say.
+
+1. Lavender Five have broken down the reasons for action pretty well, but from a different perspective [here](https://medium.com/@lavenderfive/8f6d5bd5d6ae).
+2. Joe Abbey has written about how the original Atom wallets were provisioned, and when, in a handy bit of [amateur sleuthing](https://jabbey-io.medium.com/game-ing-stakedrops-d02a826ff791).
