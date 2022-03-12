@@ -6,8 +6,6 @@ layout: default
 
 ## TL;DR
 
-The rule of law over the rule of the mob matters even more in decentralized systems than in centralized ones.
-
 <s>We will be voting <strong>abstain</strong> but encourage our delegators to vote as individuals.[0]</s>
 
 
