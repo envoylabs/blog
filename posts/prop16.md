@@ -92,6 +92,6 @@ The real question is not how we deal with this crisis, but how we navigate the n
 
 ___
 
-[0] actually the lack of definitely private ballots is, in our opinion, dangerous. We think validators' votes should be public, but non-validator wallets should be private. That's another story for another day, however.
+[0] the lack of private ballots is, in our opinion, dangerous. We think validators' votes should be public, but non-validator wallet votes should probably be private. That's another story for another day, however.
 
 [1] heck, we will admit to a little of this, it's money for nothing, after all.
