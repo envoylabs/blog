@@ -4,6 +4,12 @@ layout: default
 
 # Juno Proposal 16
 
+## TL;DR
+
+We will be voting **abstain** but encourage our delegators to vote as individuals.[0]
+
+## Context
+
 [Juno Proposal 16](https://www.mintscan.io/juno/proposals/16) is controversial. The proposal seeks to reduce a 'whale' that gained over 2m Juno in the genesis stakedrop to the intended 'whale cap' of 50k JUNO.
 
 Quickly then - the 'whale' got around this cap by separating their funds into over 50 wallets, and then consolidating them into a single wallet later. They did this after IBC was enabled, which makes it technically very difficult to re-start the chain from genesis.
@@ -86,6 +92,6 @@ The real question is not how we deal with this crisis, but how we navigate the n
 
 ___
 
-[0] amusingly though, some of the largest accounts on Juno are not entities - they're multisigs for e.g. the dev fund, Junoswap incentives, etc
+[0] actually the lack of definitely private ballots is, in our opinion, dangerous. We think validators' votes should be public, but non-validator wallets should be private. That's another story for another day, however.
 
 [1] heck, we will admit to a little of this, it's money for nothing, after all.
