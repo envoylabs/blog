@@ -110,8 +110,9 @@ ___
 
 Since writing our post, we've been made aware of other blogs by validators and teams that make for a decent 'further reading' section for the interested. The inclusion of these articles here does not indicate we endorse their views, merely that it is worth reading what others have to say.
 
-1. Lavender Five have broken down the reasons for action pretty well, but from a different perspective [here](https://medium.com/@lavenderfive/8f6d5bd5d6ae).
+1. Lavender Five have broken down the reasons for action pretty well, but from a different perspective. They conclude on voting abstain. [here](https://medium.com/@lavenderfive/8f6d5bd5d6ae).
 2. Joe Abbey has written about how the original Atom wallets were provisioned, and when, in a handy bit of [amateur sleuthing](https://jabbey-io.medium.com/game-ing-stakedrops-d02a826ff791).
+3. Polkachu has an excellent post about their reasoning for voting yes. [We agree with the majority of their points and think it is an excellent read](https://polkachu.com/blogs/people-vs-juno-whale).
 
 ___
 
