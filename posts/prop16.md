@@ -15,6 +15,12 @@ Due to new information that has come out (see the links at the bottom of this ar
 
 We encourage our delegators to vote according to their consciences.[0]
 
+**(2022-03-13) Edit:**
+
+People have asked us what would happen in the case of a 'no' vote. We would immediately want a new gov prop.
+
+We don't trust the whale any further than we can throw them. Trust is earned. We would move to lock their funds in a vesting wallet rather than altering the balance.
+
 ## Context
 
 [Juno Proposal 16](https://www.mintscan.io/juno/proposals/16) is controversial. The proposal seeks to reduce a 'whale' that gained over 2m Juno in the genesis stakedrop to the intended 'whale cap' of 50k JUNO.
