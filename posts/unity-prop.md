@@ -16,7 +16,7 @@ Here's a diagram of actions available to this entity:
 
 The withdrawer is simply an address that has permissions to initiate a withdrawal to a withdrawal address.
 
-- The withdrawal address is configured when the contract starts
+- The withdrawal address is configured when the contract is instantiated
 - It must be the same address as the address initiating the withdrawal
 - When a withdrawal is initiated, there is a delay until the funds can actually be withdrawn
 - This will be set to 28 days
@@ -51,11 +51,15 @@ The contract then checks the message type sent to it, and acts accordingly.
 
 Cases 1 and 3 should need no explanation; they effectively drain the contract.
 
-However, it is point 2 that allows for more flexible negotiation. Although heavy on admin, there is no reason why X amount of Juno could not be released in chunks, if a compromise between CCN and the community was reached.
+However, it is point 2 that allows for more flexible negotiation.
+
+Although heavy on admin, there is no reason why X amount of Juno could not be released in chunks, if a compromise between CCN and the community was reached.
 
 ## A note on admin
 
-The current plan is that the contract will be instantiated with the governance module as its admin. This means that the code could be migrated (i.e. upgraded) with a further governance prop, if the community passed a motion to do so.
+The current plan is that the contract will be instantiated **with the governance module as its admin.**
+
+This means that the code could be migrated (i.e. upgraded) with a further governance prop, if the community passed a motion to do so.
 
 It may, however, be preferable to instantiate it without an admin. This means that the code cannot be upgraded.
 
