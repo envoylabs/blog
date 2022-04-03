@@ -35,6 +35,7 @@ If you want to discuss anything, you can get in touch with us on [keybase](https
 
 ## Posts
 
+- **2022-04-03** -- [Unity Prop Smart Contract](./posts/unity-prop.html)
 - **2022-03-11** -- [Juno Proposal 16](./posts/prop16.html)
 - **2022-01-23** -- [deNS Roadmap](./posts/roadmap.html)
 - **2022-01-17** -- [deNS testing is complete!](./posts/dens-testing.html)
