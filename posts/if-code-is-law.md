@@ -23,7 +23,7 @@ Most systems of government have a number of moving parts. But let's design a toy
 
 It might have:
 
-- Law
+- Laws
 - A judiciary to make judgements based on the law
 - An electorate to pass laws
 
@@ -31,7 +31,7 @@ Okay, so far, so good.
 
 So, in Cosmos governance, what do we have? Well, let's try to line it up.
 
-- Law: code
+- Laws: code
 - Judiciary: ???
 - Electorate: stakers
 
