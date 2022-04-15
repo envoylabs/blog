@@ -41,7 +41,7 @@ As an aside, this is also part of the increasing mood in the Cosmos that governa
 
 On liability, then. Engineers and validators are much more visible, and are thus taking on much higher risk to themselves in implmenting a proposal that is controversial or may draw regulatory ire. This is doubly complicated if they don't agree with the decision. What are they to do in that situation?
 
-Purists would presumably argue that DAO governance supersedes their personal opinion, except that's... obviously un-enforceable in practice.
+Purists would presumably argue that DAO governance supersedes their personal opinion, except that's... obviously un-enforceable in practice.[0]
 
 Making sure that code is presented alongside any governance proposal is a good counter to this. It's also why many engineers associated with Juno voted no on Prop 18. The question was, who is going to implement this?
 
@@ -96,7 +96,7 @@ Many others have expressed this in one form or another during the last ten years
 
 _Decentralized systems are inherently multilateral._ Though some context as to why this is important from our lived political experience may be relevant.
 
-At least in the UK, for the last hundred years the primary political axis has been that of Socialist (via the Labour Party and movement) versus Conservative (via the Tories). The effectiveness of the Conservative narrative of needing no change (essentially the entrenchment of the interests of the ruling class)[0] is such that the Conservatives (Tories) were in power in the 20th Century United Kingdom for longer than the Communist Party in Russia.
+At least in the UK, for the last hundred years the primary political axis has been that of Socialist (via the Labour Party and movement) versus Conservative (via the Tories). The effectiveness of the Conservative narrative of needing no change (essentially the entrenchment of the interests of the ruling class)[1] is such that the Conservatives (Tories) were in power in the 20th Century United Kingdom for longer than the Communist Party in Russia.
 
 In the last thirty years, the driving force for multilateral action has been international finance and the forces of globalisation - often a regressive, or malign influence as experienced by ordinary citizens.
 
@@ -110,7 +110,7 @@ Thus, should a political movement, be it socialists, or the Pirate party, want t
 
 Both the Green movement and the Pirate movement have seen this first-hand. Both of these movements are also inherently multilateral, as they are set up to fight something (the destruction of the planet, and international copyright and censorship) that is also multilateral, or cross-border in nature.
 
-Socialist movements, on the other hand, often try to fight the corrosive influence of international capital (for example, large-scale criminal tax evasion) on a country-by-country basis. That isn't going to work, as we've seen time and time again.[1]
+Socialist movements, on the other hand, often try to fight the corrosive influence of international capital (for example, large-scale criminal tax evasion) on a country-by-country basis. That isn't going to work, as we've seen time and time again.[2]
 
 Fighting these things in just your city, state, country, is not enough. It is no coincidence that both the Greens and Pirates have had much of their initial success working in this fashion, in for example the European Parliament.
 
@@ -132,7 +132,7 @@ Much of the technological change that has resulted in our multilateral political
 
 That has had far reaching impacts, culturally, politically, socially, technically, and many of them overlap pretty heavily with the discussion of multilateralism. Simply put - all of these changes have happened across borders, even if the individual cause and effect you might clearly see (Trump, Brexit, stagnant real wages etc etc) are often seen though the lens of an individual country.
 
-Anyway - what's important here is that vector capitalism assumes that the information vector, rather than the means of production, is where excess value is created, through "any surplus information, acquired through unequal exchanges of information."[2]
+Anyway - what's important here is that vector capitalism assumes that the information vector, rather than the means of production, is where excess value is created, through "any surplus information, acquired through unequal exchanges of information."[3]
 
 The question is, on the interchain, who owns that?
 
@@ -156,11 +156,11 @@ In short: how fully do you own the things that you've paid for? Doubly so, since
 
 Put simply - you've paid for it, to what extent do you actually own it? Are applications on-chain capturing a reasonable excess for their work, or are you still experiencing an asymmetrical output?
 
-This applies at chain level too - and perhaps is the root of a lot of the anger at the whale. Such a huge holder fundamentally unbalances a chain. However, looking at the valset, as Nick Merrill did in _Minority Rule is Possible_ reveals that validator voting power distribution suggests (potentially fundamental) issues with dPoS.[3]
+This applies at chain level too - and perhaps is the root of a lot of the anger at the whale. Such a huge holder fundamentally unbalances a chain. However, looking at the valset, as Nick Merrill did in _Minority Rule is Possible_ reveals that validator voting power distribution suggests (potentially fundamental) issues with dPoS.[4]
 
 Or, to put it another way, **if, as we posited before, validators are akin to a judiciary, or upper house, then shouldn't their votes have equal weighting?**
 
-Luckily, people are asking these questions, and tooling is improving for normal people to interrogate and understand blockchain-hosted code[4].
+Luckily, people are asking these questions, and tooling is improving for normal people to interrogate and understand blockchain-hosted code[5].
 
 Finally, it's becoming increasingly common for projects to launch, and then stabilize into DAOs themselves. As these DAOs become able to host their own projects, and pay for any number of key services directly from their treasuries, they will force a step-change in how governments perceive these fundamentally cross-border, multilateral entities.
 
@@ -171,12 +171,14 @@ The real question will be how ownership thrashes out in practice in these DAOs -
 We have a unique moment to build novel, multilateral governance systems that combat an increasingly regressive multilateral global order. Wouldn't it be cool if we took the opportunity?
 
 
-[0] In some cases, this ruling class goes all the way back to 1066, for an idea of just how resilient a ruling class can be.
+[0] Though it is an interesting thought experiment to say: in a world where DAOs were self-governing with no external pressures, would it be reasonable to say that a core dev should always implement the wishes of the electorate? Maybe. Obviously though that is a pure thought experiment.
 
-[1] While this is controversial to some, we're obviously not against taxation. In the UK we have free healthcare as a result, and (personal story time) getting hit by a car and getting scraped off the road by paramedics and treated has cemented the author's already strong belief that taxes spent on human dignity are never wasted.
+[1] In some cases, this ruling class goes all the way back to 1066, for an idea of just how resilient a ruling class can be.
 
-[2] Taken from [this article](https://www.e-flux.com/journal/65/336347/the-vectoralist-class/)
+[2] While this is controversial to some, we're obviously not against taxation. In the UK we have free healthcare as a result, and (personal story time) getting hit by a car and getting scraped off the road by paramedics and treated has cemented the author's already strong belief that taxes spent on human dignity are never wasted.
 
-[3] Read the original article [here](https://nickmerrill.substack.com/p/warning-minority-rule-is-possible).
+[3] Taken from [this article](https://www.e-flux.com/journal/65/336347/the-vectoralist-class/)
 
-[4] Or 'smart contracts', if you prefer.
+[4] Read the original article [here](https://nickmerrill.substack.com/p/warning-minority-rule-is-possible).
+
+[5] Or 'smart contracts', if you prefer.
