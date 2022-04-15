@@ -17,6 +17,8 @@ This article explores a number of questions that we as an interchain have to ans
 
 It's worth saying that these are _just our opinions_, and are obviously based on a particular interpretation of broad economic and historical trends.
 
+___
+
 ## Is code law? The implications of Juno Prop 16
 
 Most systems of government have a number of moving parts. But let's design a toy one.
@@ -65,7 +67,7 @@ If this is the case, then any formal acknowledgment of the shape of Cosmos gover
 
 However, should the same situation arise tomorrow on another chain, it would be likely to pan out in a very similar fashion.
 
-## Can governance scale?
+### Can governance scale?
 
 Okay, this could be literally a book in its own right, but the implications of the exact technical mechanism by which voting occurs deserves a little attention.
 
@@ -87,6 +89,8 @@ It's our bet as an organisation that IBC is the technology from Cosmos that will
 Where the rubber will hit the road on these governance systems will be liability, as we've seen with Prop 16. Sooner or later, something that is very controversial, possibly illegal, will happen across multiple jurisdictions where regulators are motivated to act.
 
 Who they target, what their reasoning is, and how successful that enforcement action is, will be a watershed moment for the maturity of on-chain governance and DAOs in general.
+
+___
 
 ## Multilateralism and decentralization
 
@@ -123,6 +127,8 @@ This happened with landowners and capitalists, and there's no reason to think an
 Even in crypto, this can be seen in wealth management becoming alive to Bitcoin, and increasingly becoming interested in novel coins and gen2/3 blockchain projects.
 
 So it seems the question is, **whether the crypto space is an accelerating, or purer form of these already existing regressive trends**, or **whether it is part of the balancing of the axis against regressive multilateralism that harms people, individual and collective agency and the planet**.
+
+___
 
 ## Vector capitalism and ownership on the interchain
 
@@ -166,10 +172,13 @@ Finally, it's becoming increasingly common for projects to launch, and then stab
 
 The real question will be how ownership thrashes out in practice in these DAOs - if they end up as unequal as the systems they have replaced, then all we have achieved with the interchain is simply to complete a multilateral (or, decentralized) expression of the inequality present in our existing systems.
 
+___
+
 ## Conclusion
 
 We have a unique moment to build novel, multilateral governance systems that combat an increasingly regressive multilateral global order. Wouldn't it be cool if we took the opportunity?
 
+___
 
 [0] Though it is an interesting thought experiment to say: in a world where DAOs were self-governing with no external pressures, would it be reasonable to say that a core dev should always implement the wishes of the electorate? Maybe. Obviously though that is a pure thought experiment.
 
