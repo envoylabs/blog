@@ -17,9 +17,16 @@ This article explores a number of questions that we as an interchain have to ans
 
 It's worth saying that these are _just our opinions_, and are obviously based on a particular interpretation of broad economic and historical trends.
 
+This blog is split into 4 parts:
+
+1. **Is code law? The implications of Juno Prop 16**, a discussion of how Prop 16 has highlighted some of the implicit governance parallels that may exist on Cosmos chains
+2. **Multilateralism and decentralization**, a very un-academic musing on whether decentralized systems are part of a wider discourse of multilateral political struggle
+3. **Vector capitalism and ownership on the interchain**, some thoughts on how networks where payments are built-in offer chances for agency and ownership, but also risk accelerating vector capitalism
+4. **Conclusion**
+
 ___
 
-## Is code law? The implications of Juno Prop 16
+## I: Is code law? The implications of Juno Prop 16
 
 Most systems of government have a number of moving parts. But let's design a toy one.
 
@@ -92,7 +99,7 @@ Who they target, what their reasoning is, and how successful that enforcement ac
 
 ___
 
-## Multilateralism and decentralization
+## II: Multilateralism and decentralization
 
 To indulge a stock pet theory, the primary political battleground is becoming fought on a unilateral versus multilateral playing field. Not, necessarily 'left' and 'right', although there is some overlap.
 
@@ -130,7 +137,7 @@ So it seems the question is, **whether the crypto space is an accelerating, or p
 
 ___
 
-## Vector capitalism and ownership on the interchain
+## III: Vector capitalism and ownership on the interchain
 
 It's at this point that, if you're familiar with McKenzie Wark's _Capital is Dead_ you will probably be spotting elements of their central argument.
 
@@ -174,7 +181,7 @@ The real question will be how ownership thrashes out in practice in these DAOs -
 
 ___
 
-## Conclusion
+## IV: Conclusion
 
 We have a unique moment to build novel, multilateral governance systems that combat an increasingly regressive multilateral global order. Wouldn't it be cool if we took the opportunity?
 
