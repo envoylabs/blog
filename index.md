@@ -34,7 +34,7 @@ If you want to discuss anything, you can get in touch with us on [keybase](https
 
 ## Posts
 
-- **2022-05-23** -- [Okay, code is law. What next?](./posts/jurisdiction-zero.html)
+- **2022-06-02** -- [Jurisdiction Zero](./posts/jurisdiction-zero.html)
 - **2022-04-15** -- [Okay, code is law. What next?](./posts/if-code-is-law.html)
 - **2022-04-03** -- [Unity Prop Smart Contract](./posts/unity-prop.html)
 - **2022-03-11** -- [Juno Proposal 16](./posts/prop16.html)
