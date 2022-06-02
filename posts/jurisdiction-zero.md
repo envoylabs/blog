@@ -34,11 +34,13 @@ This is why it's a little bit of a slippery slope, however.
 
 It's easy to take this argument to an extreme and say that no physical nations or governments can have a say in the interchain - and maybe that's true. However, meatspace is real, too - and the social contract there is important. As citizens we trade some freedoms in exchange for collective benefits. That's the social contract.
 
-So we're not arguing the social contract (e.g. to pay your taxes) is null and void. Nor are we saying that you're exempt from the law in the country in which you live. We simply argue that the one we share on the interchain can be just as valid.
+So we're not arguing the social contract (e.g. to pay your taxes) is null and void. Nor are we saying that you're exempt from the law in the country in which you live. We simply argue that the one we share on the interchain can be just as valid, at least until you go AFK and go outside.
 
 When you think about it, this kind of makes sense.
 
 You have a multi-sig of anon and non-anon people, or a DAO with a treasury on-chain. Where does that live? Jurisdiction Zero.
+
+It's not like doing something as an individual on the interchain, because that DAO will never[0] collectively get up, leave their keyboard and go to the same place. They aren't a scalar, singular entity in the way that a person is.
 
 Especially as privacy tools in the interchain improve, it will become a practical impossibility to track these new social formations, and they will become a de-facto state of their own.
 
@@ -54,7 +56,7 @@ The fact is, solving this problem proved fractally complex on web2, and before t
 
 Again, it's a slippery slope. For some people, 'freedom' is so sacrosanct that there should be no restrictions on speech or action. Obviously we don't agree with that, and most societies don't.
 
-For most people though, it isn't that controversial that we refer to breaking common laws as a "problem", and that shows there is some degree of social consensus there.
+For most people, it isn't that controversial that we refer to breaking common laws as a "problem", and that shows there is some degree of social consensus there.
 
 That said, it's uncomfortable to consider the reality that if we're not careful, we may be building better places for evil to flourish.
 
@@ -65,3 +67,7 @@ So yes - communities with horrible ideologies can spring up, just as they can in
 Ultimately, it will come down to us building the communities we want to see. If we get to a point where security and privacy do make it possible to organise in whatever forms we see fit, then it's important that we acknowledge diverse voices, seek to find compromise and exercise kindness and humility as we define the rules of these spaces together.
 
 Because, after all, it's not the governments we should be accountable to - it's each other.
+
+___
+
+[0] Ok, is very unlikely to

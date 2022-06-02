@@ -16,7 +16,6 @@ We're also very active on the [Juno Discord](https://discord.gg/wHdzjS5vXx). Say
 
 Our validator setups are best-in-class, with:
 
-- Sentry nodes for DDOS protection
 - Overcapacity of memory and compute versus network baseline
 - Enterprise-grade cloud setup with redundancy and rapid DR
 - Daily backups
