@@ -6,7 +6,7 @@ layout: default
 
 ## TL;DR
 
-> The interchain is a wild west because most communities are too young to have worked out a social contract. When they do, they will form a jurisdiction equal to 'traditional' physical jurisdictions, for a limited part of peoples' digital lives.
+> Some people see the internet as a real place, and others do not. The interchain is a wild west because most communities are too young to have worked out a social contract. When they do, they will form a jurisdiction equal to 'traditional' physical jurisdictions, for a limited part of peoples' digital lives.
 
 ___
 
@@ -25,6 +25,8 @@ There's a moment in the documentary on The Pirate Bay, _TPB AFK_ where Peter Sun
 > We don't use the expression IRL. We say "Away From Keyboard". We think the internet is for real.
 
 Watching that was a lightbulb moment. Some people, regardless of age, see the internet as real life, and some don't.
+
+What we've seen that unites almost everybody we've encountered in the space, is that regardless of political or ideological specifics, everybody who's not a grifter or scammer is here because they believe the internet is a real place.
 
 So to build on our last post, if you see the internet as real, then in what jurisdiction do things that happen there occur? They exist in Jurisdiction Zero - the abstract of cyberspace where we all increasingly interact.
 
