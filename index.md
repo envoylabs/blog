@@ -1,12 +1,12 @@
 ## Needlecast Validators
 
-Needlecast Validators run with the moniker **needlecast** on networks in the Cosmos Ecosystem.
+Needlecast Validators run with the moniker **needlecast** on networks in the Cosmos Ecosystem and beyond.
 
 We have years of experience running enterprise infrastructure at scale. In web3, things move _much faster_. We constantly re-evaluate our setup and procedures, engaging with other validators on the best way to operate.
 
 We care not only about following best-practice, but also helping to define it as the validator community expands.
 
-We validate the Juno and Stargaze mainnets, and have been part of the core development team for Juno since the early days of the project.
+We validate the Aptos, Juno and Stargaze mainnets, and have been part of the core development team for Juno since the early days of the project.
 
 Envoy Labs offer smart contract and blockchain consulting to the right projects. If you are a network or foundation that wants an experienced validator team and has a delegation to offer, then get in touch via the link below.
 
@@ -34,6 +34,7 @@ If you want to discuss anything, you can get in touch with us on [keybase](https
 
 ## Posts
 
+- **2022-10-17** -- [Needlecast on Aptos Mainnet](./posts/aptos-mainnet.html)
 - **2022-06-02** -- [Jurisdiction Zero](./posts/jurisdiction-zero.html)
 - **2022-04-15** -- [Okay, code is law. What next?](./posts/if-code-is-law.html)
 - **2022-04-03** -- [Unity Prop Smart Contract](./posts/unity-prop.html)
