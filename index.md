@@ -34,6 +34,7 @@ If you want to discuss anything, you can get in touch with us via our [website](
 
 ## Posts
 
+- **2024-03-05** -- [The Protocol is the Network](./posts/the-protocol-is-the-network.html)
 - **2024-01-18** -- [Mars in retrograde, and new business plans](./posts/mars.html)
 - **2022-10-17** -- [Needlecast on Aptos Mainnet](./posts/aptos-mainnet.html)
 - **2022-06-02** -- [Jurisdiction Zero](./posts/jurisdiction-zero.html)
