@@ -8,19 +8,29 @@ In Cosmos, validators often talk about the IBC-verse, or Interchain. Generally, 
 
 Indeed, it might be that over time the two definitions merge, or it could be that new technology supercedes Cosmos and IBC is the technology that survives into the next generation of blockchains.
 
-It's common to hear the phrase, "we're early" - and if this indeed is true then we should expect chains becoming zombie chains, or halting altogether, to be the long-term expectation. Without utility, chains will tend towards empty blocks and a dwindling user base. Though some might retain speculative value, the size of the IBC-verse suggests that there will be enough chains left with utility to present a better opportunity for investors.[0]
+It's common to hear the phrase, "we're early" - and if this indeed is true then we should expect chains becoming zombie chains, or halting altogether, to be the long-term expectation.
+
+Without utility, chains will tend towards empty blocks and a dwindling user base. Though some might retain speculative value, the size of the IBC-verse suggests that there will be enough chains left with utility to present a better opportunity for investors.[0]
 
 ## What is a Cosmos chain anyway?
 
-As we've discussed elsewhere, on podcasts and in blog posts, we expect the current definition of Cosmos chain to evolve from "built with Tendermint and the Cosmos SDK" to "uses IBC". In this context, it's worth thinking about what exactly that stack is composed of. Tendermint contains the ledger, consensus and networking stack, and the state machine is handled by the SDK. These two interact via ABCI (and its successors), and are intended to be loosely coupled.
+As we've discussed elsewhere, on podcasts and in blog posts, we expect the current definition of Cosmos chain to evolve from "built with Tendermint and the Cosmos SDK" to "uses IBC".
 
-In practice, they're pretty more tightly coupled, but as an architectural model to take forwards, it's bang on the money. If you push the state machine further up the stack, and ideally require as little knowledge about its workings as possible, you can derive interesting properties. You may exchange some knowledge of what your ledger might contain, relaxing some assumptions, while gaining the benefits of greater reusability. We'll return to this idea later.
+In this context, it's worth thinking about what exactly that stack is composed of. Tendermint contains the ledger, consensus and networking stack, and the state machine is handled by the SDK. These two interact via ABCI (and its successors), and are intended to be loosely coupled.
+
+In practice, they're pretty more tightly coupled, but as an architectural model to take forwards, it's bang on the money. If you push the state machine further up the stack, and ideally require as little knowledge about its workings as possible, you can derive interesting properties.
+
+You may exchange some knowledge of what your ledger might contain, relaxing some assumptions, while gaining the benefits of greater reusability. We'll return to this idea later.
 
 ## Privacy and public state
 
-At present, state is kept on blockchains, mainly public ones, which presents a number of issues. Firstly a simple case of privacy - do you want your financial life to be online and public? As chain indexing technology improves, third-party institutions are mining this data for insights and to de-anonymise the nodes in the network, i.e. YOU. What this means in practice is that any economic utility you gain also has a side effect - a third party gains additional utility on top. Indeed, it may be that their actions are actively harmful to you, for example, impacting your credit score, or reducing your access to certain financial products, and thus your utility will go down as theirs increases.
+At present, state is kept on blockchains, mainly public ones, which presents a number of issues. Firstly a simple case of privacy - do you want your financial life to be online and public? As chain indexing technology improves, third-party institutions are mining this data for insights and to de-anonymise the nodes in the network, i.e. YOU. 
 
-Secondly, there is a case of cyberattack. A great deal of literature has been written on game theoretic models of theft within economies, and in many of these two variables become key to whether or not an attacker will decide an attack, or theft, is worth their while. Firstly, there is being able to identify the holder of a good. Kicking down random doors is not only unlikely to be profitable, but it also incurs risk to them (e.g. from the potential victim, authorities, law enforcement, etc). Secondly, there is being able to identify the size of a holding, which will inform how much benefit they could gain from a _successful_ theft.
+What this means in practice is that any economic utility you gain also has a side effect - a third party gains additional utility on top. Indeed, it may be that their actions are actively harmful to you, for example, impacting your credit score, or reducing your access to certain financial products, and thus your utility will go down as theirs increases.
+
+There is also the case of cyberattack. A great deal of literature has been written on game theoretic models of theft within economies, and in many of these two variables become key to whether or not an attacker will decide an attack, or theft, is worth their while.
+
+Firstly, there is being able to identify the holder of a good. Kicking down random doors is not only unlikely to be profitable, but it also incurs risk to them (e.g. from the potential victim, authorities, law enforcement, etc). Secondly, there is being able to identify the size of a holding, which will inform how much benefit they could gain from a _successful_ theft.
 
 Being able to identify a victim and their holdings vastly simplifies the process of identifying worthwhile targets, and increases the likelihood of theft.
 
@@ -30,7 +40,9 @@ These are just some of the reasons that public state on blockchains is likely to
 
 ## What should the blockchain record?
 
-In many cases, the blockchain as integrity source does not require public visibility - it merely requires that a proof of a transaction can be provided on request, usually between counterparties. Revealing only specific information to specific parties is a more sensible basic model for transactional use-cases. Consider that other truism that "wallets are social" - that is because wallets and accounts on the blockchain constitute identity, bringing with them all the complications and risks that entails.
+In many cases, the blockchain as integrity source does not require public visibility - it merely requires that a proof of a transaction can be provided on request, usually between counterparties.
+
+Revealing only specific information to specific parties is a more sensible basic model for transactional use-cases. Consider that other truism that "wallets are social" - that is because wallets and accounts on the blockchain constitute identity, bringing with them all the complications and risks that entails.
 
 When we consider the transaction itself, we might instead model the blockchain as merely taking a proof of an update to an asset. This proof could be a hash with no unencrypted data. The asset would live somewhere else, only accessible and visible to its current owner.
 
