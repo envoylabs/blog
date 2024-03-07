@@ -44,5 +44,7 @@ In this model, the state machine exists as effectively a separate network. It ma
 
 These are all the principles behind CBDC systems currently being proposed by academics, such as the Comet (no relation to Comet BFT) system[1]. In Cosmos, we're uniquely positioned to understand how such a system could connect permissioned and permissionless blockchains and facilitate payments in future.
 
-[0] Of course, in the long run, only projects with utility will be value. In any event, it is probably the case that for any transactional economic system investor returns and the correct functioning of the cryptoeconomy are incompatible
-[1] [Read more about Comet and USOs](https://link.springer.com/chapter/10.1007/978-3-031-32415-4_38)
+___
+
+- [0] Of course, in the long run, only projects with utility will be value. In any event, it is probably the case that for any transactional economic system investor returns and the correct functioning of the cryptoeconomy are incompatible
+- [1] [Read more about Comet and USOs](https://link.springer.com/chapter/10.1007/978-3-031-32415-4_38)
